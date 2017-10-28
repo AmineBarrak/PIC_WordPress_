@@ -1,0 +1,5 @@
+SIC_GAIN edit_post wp-admin/async-upload.php 33
+SIC_GAIN edit_post wp-admin/async-upload.php 34
+SIC_GAIN edit_post wp-admin/async-upload.php 36
+SIC_GAIN edit_post wp-admin/async-upload.php 37
+SIC_GAIN edit_post wp-includes/pluggable.php 828

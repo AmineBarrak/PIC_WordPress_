@@ -1,0 +1,4 @@
+SIC_GAIN edit_posts wp-admin/includes/dashboard.php 419
+SIC_GAIN edit_posts wp-admin/includes/dashboard.php 420
+SIC_GAIN edit_posts wp-admin/post.php 116
+SIC_GAIN edit_posts wp-includes/version.php 7
